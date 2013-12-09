@@ -109,9 +109,9 @@ function show_admin_data($root) { ?>
 						<a href="import.php" class="btn btn-default">
 							<span class="glyphicon glyphicon-download-alt"></span> Download Data Lengkap (.xls)
 						</a>
-						<a href="eksport.php" class="btn btn-default">
+						<a href="import.html" class="btn btn-default">
 							<span class="glyphicon glyphicon-download-alt"></span> upload data(.xls)
-						</a>
+						</a>				
 					</div>
 					<div class="hero-unit">
      </div>
